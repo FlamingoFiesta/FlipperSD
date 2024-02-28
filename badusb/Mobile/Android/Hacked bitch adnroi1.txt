@@ -1,0 +1,20 @@
+REM Android search script
+REM Open default search bar and type "TEXT"
+
+DELAY 2000
+HOME
+DELAY 500
+HOME
+DELAY 500
+HOME
+DELAY 500
+HOME
+DELAY 500
+HOME
+
+DELAY 500
+SEARCH
+DELAY 500
+
+STRING You've just been hacked bitch lmao
+ENTER

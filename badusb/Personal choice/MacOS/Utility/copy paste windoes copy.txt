@@ -1,0 +1,3 @@
+GUI c
+DELAY 5000
+GUI v
